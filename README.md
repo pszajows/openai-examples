@@ -1,4 +1,4 @@
-__The original repository contains some deprecated code as of August 2023. In this repository I corrected the example for QA (based on Wikipedia data about Summer Olympics 2020). The rest of the repository is still to be corrected.__ 
+__The original repository contains some deprecated code as of August 2023. In this repository I corrected the example for QA (based on Wikipedia data about Summer Olympics 2020). The correction covered only the part, which illustrates, how to prepare the data for fine tuning. The rest of the repository is still to be corrected.__ 
 
 # OpenAI Cookbook
 
