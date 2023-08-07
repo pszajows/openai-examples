@@ -1,3 +1,5 @@
+__The original repository contains some deprecated code as of August 2023. In this repository I corrected the example for QA (based on Wikipedia data about Summer Olympics 2020.__ 
+
 # OpenAI Cookbook
 
 The OpenAI Cookbook shares example code for accomplishing common tasks with the [OpenAI API].
